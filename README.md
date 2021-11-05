@@ -1,11 +1,13 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AlpacaParker&fontSize=90)
 
 <!-- 개발자 테크스택 -->
-<h3 align="center">👨‍💻 Tech Stack (as a Developer) 👨‍💻</h3>
+<h3>👨‍💻 Tech Stack (as a Developer) 👨‍💻</h3>
 
-<p align="center">Techs that I've used at least once</p>
+<p>Techs that I've used at least once</p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=Qt&logoColor=white"/>
@@ -22,11 +24,11 @@
 
 <br>
 <!-- 디자이너 테크스택 -->
-<h3 align="center">👨‍🎨 Tech Stack (as a Designer) 👨‍🎨</h3>
+<h3>👨‍🎨 Tech Stack (as a Designer) 👨‍🎨</h3>
 
-<p align="center">Techs that I've used at least once</p>
+<p>Techs that I've used at least once</p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=Dassault Systèmes&logoColor=white"/>
@@ -34,20 +36,15 @@
 </p>
 
 <br>
-
-<div align=center>
+<!-- 깃허브 스탯 -->
+![Heonhyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpacaParker4592&show_icons=true&theme=dark)
   
-  ![Heonhyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpacaParker4592&show_icons=true&theme=dark)
-  
-  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alpacaparker)
-  
-</div>
+<!-- Solved.ac 프로필 -->
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alpacaparker)
 
 <br>
 <!-- 조회수 -->
-<p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpacaParker4592&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-</p>
 
 <br>
   
