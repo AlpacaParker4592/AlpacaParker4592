@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AlpacaParker&fontSize=90)
 
+<!-- 개발자 테크스택 -->
 <h3 align="center">👨‍💻 Tech Stack (as a Developer) 👨‍💻</h3>
 
 <p align="center">Techs that I've used at least once</p>
@@ -20,7 +21,7 @@
 </p>
 
 <br>
-
+<!-- 디자이너 테크스택 -->
 <h3 align="center">👨‍🎨 Tech Stack (as a Designer) 👨‍🎨</h3>
 
 <p align="center">Techs that I've used at least once</p>
@@ -31,3 +32,12 @@
 <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=Dassault Systèmes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fusion 360-FF9A00?style=flat&logo=Autodesk&logoColor=white"/>
 </p>
+
+<br>
+<!-- 조회수 -->
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpacaParker4592&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</p>
+
+<br>
+  
