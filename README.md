@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Fusion 360-FF9A00?style=flat&logo=Autodesk&logoColor=white"/>
 </p>
 
-<br>
+* * *
 
 <!-- 깃허브 스탯 -->
 ![Heonhyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpacaParker4592&show_icons=true&theme=dark)
