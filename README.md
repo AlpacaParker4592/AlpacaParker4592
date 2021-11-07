@@ -35,6 +35,15 @@
 <img src="https://img.shields.io/badge/Fusion 360-FF9A00?style=flat&logo=Autodesk&logoColor=white"/>
 </p>
 
+<br>
+<!-- 나 -->
+<h3>✒ About Me ✒</h3>
+
+<p>
+<a href="https://velog.io/@alpacaparker4592" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:lhh-znso4@gm.gist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=Microsoft Outlook&logoColor=white"/></a>
+</p>
+  
 * * *
 
 <!-- 깃허브 스탯 및 Solved.ac 프로필 -->
