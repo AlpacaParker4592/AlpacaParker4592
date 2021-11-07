@@ -38,7 +38,6 @@
 <br>
 <!-- 나 -->
 <h3>✒ About Me ✒</h3>
-
 <p>
 <a href="https://velog.io/@alpacaparker4592" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:lhh-znso4@gm.gist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=Microsoft Outlook&logoColor=white"/></a>
