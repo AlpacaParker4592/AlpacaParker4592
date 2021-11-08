@@ -48,7 +48,7 @@
 <!-- 깃허브 스탯 및 Solved.ac 프로필 -->
 GitHub Stats|Solved.ac Profile
 :---:|:---:
-![Heonhyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpacaParker4592&show_icons=true&theme=dark&hide_rank=false)|![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alpacaparker)
+![Heonhyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpacaParker4592&show_icons=true&theme=dark&hide_rank=false)|![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alpacaparker)
 
 <br>
 <!-- 조회수 -->
